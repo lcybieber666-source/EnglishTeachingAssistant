@@ -1,0 +1,247 @@
+段落数: 33
+表格数: 2
+
+
+===== 表格 0: 12行 x 5列 =====
+
+行 0:
+  列0: 课题内容
+  列1: Unit  4  Section  B  What  can  you  learn  from
+different subjects?(1a-1d)
+  列2: 学	科
+  列3: English
+  列4: English
+
+行 1:
+  列0: 授课教师
+  列1: Ma  Qingxia
+  列2: 课	型
+  列3: Reading
+  列4: Reading
+
+行 2:
+  列0: 教情、学
+情分析
+  列1: It’s a reading class from unit 4 in Grade 7 of PEP . The topic is about two posts on two students' favorite subjects and why they like them.It’s very familiar to all students, maybe they will take an active part in the class activities. As for students in Grade 7,most of them have mastered the name of subjects and know how to explain why they like them.Also,some of them have confidence to express their own ideas.But the sentences they use may be too simple,and they can’t give multiplex reasons.
+  列2: It’s a reading class from unit 4 in Grade 7 of PEP . The topic is about two posts on two students' favorite subjects and why they like them.It’s very familiar to all students, maybe they will take an active part in the class activities. As for students in Grade 7,most of them have mastered the name of subjects and know how to explain why they like them.Also,some of them have confidence to express their own ideas.But the sentences they use may be too simple,and they can’t give multiplex reasons.
+  列3: It’s a reading class from unit 4 in Grade 7 of PEP . The topic is about two posts on two students' favorite subjects and why they like them.It’s very familiar to all students, maybe they will take an active part in the class activities. As for students in Grade 7,most of them have mastered the name of subjects and know how to explain why they like them.Also,some of them have confidence to express their own ideas.But the sentences they use may be too simple,and they can’t give multiplex reasons.
+  列4: It’s a reading class from unit 4 in Grade 7 of PEP . The topic is about two posts on two students' favorite subjects and why they like them.It’s very familiar to all students, maybe they will take an active part in the class activities. As for students in Grade 7,most of them have mastered the name of subjects and know how to explain why they like them.Also,some of them have confidence to express their own ideas.But the sentences they use may be too simple,and they can’t give multiplex reasons.
+
+行 3:
+  列0: 教学目标
+  列1: 1.Language ability:Use the key words and expressions to talk about their favourite subjects and
+explain why from the subject,the teacher,future jobs and so on.
+2.Learning ability:Get the main idea and details about their favorite subjects and explain why by using different reading strategies such as scanning and skimming.
+3.Thinking quality: Talk about two boys’ favourite subjects and explain why with the help of mind map ,then give a report .
+4.Cultural awareness:Learn about cultural differences and understand the importance of learning
+different school subjects.
+  列2: 1.Language ability:Use the key words and expressions to talk about their favourite subjects and
+explain why from the subject,the teacher,future jobs and so on.
+2.Learning ability:Get the main idea and details about their favorite subjects and explain why by using different reading strategies such as scanning and skimming.
+3.Thinking quality: Talk about two boys’ favourite subjects and explain why with the help of mind map ,then give a report .
+4.Cultural awareness:Learn about cultural differences and understand the importance of learning
+different school subjects.
+  列3: 1.Language ability:Use the key words and expressions to talk about their favourite subjects and
+explain why from the subject,the teacher,future jobs and so on.
+2.Learning ability:Get the main idea and details about their favorite subjects and explain why by using different reading strategies such as scanning and skimming.
+3.Thinking quality: Talk about two boys’ favourite subjects and explain why with the help of mind map ,then give a report .
+4.Cultural awareness:Learn about cultural differences and understand the importance of learning
+different school subjects.
+  列4: 1.Language ability:Use the key words and expressions to talk about their favourite subjects and
+explain why from the subject,the teacher,future jobs and so on.
+2.Learning ability:Get the main idea and details about their favorite subjects and explain why by using different reading strategies such as scanning and skimming.
+3.Thinking quality: Talk about two boys’ favourite subjects and explain why with the help of mind map ,then give a report .
+4.Cultural awareness:Learn about cultural differences and understand the importance of learning
+different school subjects.
+
+行 4:
+  列0: 教学重点
+  列1: 1.Use the key words and expressions to talk about their favourite subjects and explain why.
+2.Be able to get the main idea and details.
+  列2: 1.Use the key words and expressions to talk about their favourite subjects and explain why.
+2.Be able to get the main idea and details.
+  列3: 1.Use the key words and expressions to talk about their favourite subjects and explain why.
+2.Be able to get the main idea and details.
+  列4: 1.Use the key words and expressions to talk about their favourite subjects and explain why.
+2.Be able to get the main idea and details.
+
+行 5:
+  列0: 教学难点
+  列1: Help students to improve their reading and comprehensive skills
+  列2: Help students to improve their reading and comprehensive skills
+  列3: Help students to improve their reading and comprehensive skills
+  列4: Help students to improve their reading and comprehensive skills
+
+行 6:
+  列0: 教   法
+  列1: Discourse approach ,Task- based teaching method.
+  列2: Discourse approach ,Task- based teaching method.
+  列3: Discourse approach ,Task- based teaching method.
+  列4: Discourse approach ,Task- based teaching method.
+
+行 7:
+  列0: 学   法
+  列1: Group-work
+  列2: Group-work
+  列3: Group-work
+  列4: Group-work
+
+行 8:
+  列0: 教·学互动过程(第 1 课时)
+  列1: 教·学互动过程(第 1 课时)
+  列2: 教·学互动过程(第 1 课时)
+  列3: 教·学互动过程(第 1 课时)
+  列4: 教·学互动过程(第 1 课时)
+
+行 9:
+  列0: 教学环节
+  列1: 教师活动
+  列2: 学生活动
+  列3: 学生活动
+  列4: 设计意图
+
+行 10:
+  列0: 导入
+部分
+  列1: Play a guessing game. “Act and guess”
+  列2: Students	guess	what
+subjects they have.
+  列3: Students	guess	what
+subjects they have.
+  列4: To	arouse
+Students'	interest
+and lead in.
+
+行 11:
+  列0: 新课
+学习
+  列1: Step 1 Pre -reading 1.1a.Ask students:
+What's  your  class  timetable  today?Write  down the subjects. Then share the answers.
+2.Prediction:
+Q1:What kind of texts are they? Q2.What 's the topic of the texts? Step II   While -reading
+1.Fast reading.
+Ask  students  to  read  the  message  board  about students'   favourite   subjects.Underline   all   the school subjects each student has.
+Q1:What subjects do they have at school? Q2:What  subjects  do  Mike  and  Binbin  both have ?
+  列2: Students	finish	their
+own class timetable
+and share their today' s class timetable.
+Students   look   at   the
+pictures	and	make
+predictions.
+
+
+
+Skim  the  passage  and
+find	out	the	school
+subjects   each   student has   and   know   about cultural differences.
+  列3: Students	finish	their
+own class timetable
+and share their today' s class timetable.
+Students   look   at   the
+pictures	and	make
+predictions.
+
+
+
+Skim  the  passage  and
+find	out	the	school
+subjects   each   student has   and   know   about cultural differences.
+  列4: To	revise	what
+subjects they have and  get  ready  for reading.
+To	predict	the
+topic	and	talk
+about  the  type  of texts.
+
+To   help   students
+know	about
+cultural
+differences .
+
+===== 表格 1: 5行 x 4列 =====
+
+行 0:
+  列1: Q3:Why   does   Mike   study   French   besides English?
+2. Careful reading.
+1.Ask students to read the first post carefully and try to find Mile’s favourite subject and why.Then finish the mind-map.
+2.Ask  students  to  work  in  groups  to  make  a mind-map   about   Wu   Binbin.Then   share   the mind-map.
+Step III	Post -reading
+1.Group-work:
+Ask students to discuss the following questions in groups and give a report.
+What subjects do you have this term?
+what's your favorite subject? Why do you like it?
+What's the class like?
+What do you think of your teacher? What do you want to be in the future?
+2.Sublimation.
+Play a video for students.
+Q1: Why do we learn so many subjects?
+Q2:What can you learn from different subjects?
+  列2: Students	read	the
+posts  carefully  and  try
+to find	their favourite
+subjects	and why.
+
+
+
+
+
+
+Students work in groups to discuss what subjects they have ,their favourite subjects and explain why.Then give a report.
+
+
+
+Students	watch	the
+video   and   know   the importance  of  learning different subjects.
+  列3: To get the details ,improve
+students’ reading skills and make them have a better understanding.
+
+
+
+To improve students’ speaking and communicative skills   and   make them be confident to	express  their
+own ideas.
+
+To  make  students
+know	the
+importance	of
+learning   different
+subjects.
+
+行 1:
+  列0: 课堂
+小结
+  列1: Summarize and ask students to share what they have learned in class .
+  列2: Summarize and ask students to share what they have learned in class .
+  列3: To	make	sure
+students	know
+what	they	have
+learned.
+
+行 2:
+  列0: 作业
+布置
+  列1: Must-do
+Make a poster about your favorite subject and explain why. Choose-to-do:
+1.Make a daily class timetable you like, and share the reasons.
+2.Search  for  more  information  about  different  subjects  in  different
+countries.
+  列2: Must-do
+Make a poster about your favorite subject and explain why. Choose-to-do:
+1.Make a daily class timetable you like, and share the reasons.
+2.Search  for  more  information  about  different  subjects  in  different
+countries.
+  列3: To	help
+students	master
+the	language
+points
+
+行 3:
+  列0: 板书
+设计
+  列1: Unit 4 My favourite subject
+Section B   What can you learn from different subjects? (1a-1d)
+  列2: Unit 4 My favourite subject
+Section B   What can you learn from different subjects? (1a-1d)
+  列3: To  show  the  key points clearly.
+
+行 4:
+  列0: 课后
+反思

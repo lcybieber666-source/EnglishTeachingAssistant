@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local env files
+.env
+
+# IDE and local tooling
+.idea/
+.claude/
+.workbuddy/
+
+# Logs and runtime outputs
+logs/
+output/
+scripts/logs/
+a2a_server/logs/
+mcp_server/logs/
+
+# Uploaded or private local data
+uploads/
+homework_data/
+
+# Evaluation caches
+DeepEval/.deepeval/
+DeepEval/__pycache__/
+
+# Project caches
+utils/__pycache__/
+a2a_server/__pycache__/
+mcp_server/__pycache__/
+
+# OS files
+Thumbs.db
+.DS_Store
